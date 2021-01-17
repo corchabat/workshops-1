@@ -44,8 +44,6 @@ Having said that, the exercises themselves should take roughly 4-5 hours. The fi
 * [Exercise 1.3 - Writing Your First Playbook](1.3-playbook)
 * [Exercise 1.4 - Using Variables](1.4-variables)
 * [Exercise 1.5 - Conditionals, Handlers and Loops](1.5-handlers)
-* [Exercise 1.6 - Templates](1.6-templates)
-* [Exercise 1.7 - Roles](1.7-role)
 
 ## Section 2 - Ansible Automation Platform Exercises
 
