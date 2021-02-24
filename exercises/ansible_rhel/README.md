@@ -43,7 +43,6 @@ Having said that, the exercises themselves should take roughly 4-5 hours. The fi
 * [Exercise 1.2 - Running Ad-hoc Commands](1.2-adhoc)
 * [Exercise 1.3 - Writing Your First Playbook](1.3-playbook)
 * [Exercise 1.4 - Using Variables](1.4-variables)
-* [Exercise 1.5 - Conditionals, Handlers and Loops](1.5-handlers)
 
 ## Section 2 - Ansible Automation Platform Exercises
 
