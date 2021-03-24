@@ -248,6 +248,5 @@ node3                      : ok=2    changed=0    unreachable=0    failed=0
 ----
 **Navegación**
 <br>
-[Ejercicio anterior](../1.3-playbook/README.es.md) - [Próximo Ejercicio](../1.5-handlers/README.es.md)
-
-[Haga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.md#section-1---ansible-engine-exercises)
+[Ejercicio anterior](../1.3-playbook/README.es.md) 
+[Haga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.es.md)
