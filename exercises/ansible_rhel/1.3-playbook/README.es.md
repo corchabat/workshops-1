@@ -1,4 +1,4 @@
-# Workshop - Escribir su primer Playbook
+# Ejercicio 3 - Escribiendo el primer Playbook
 
 ## Tabla de contenidos
 
