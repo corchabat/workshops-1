@@ -1,29 +1,18 @@
-# Ansible Workshop - Ansible for Red Hat Enterprise Linux
+# Workshop de Ansible para Linux
 
 
 Ansible es un motor de automatización de TI simple pero potente para la implementación de aplicaciones, la administración de la configuración y la orquestación que puede aprender rápidamente.
 
-En la primera sección de este laboratorio aprenderá a utilizar Ansible Engine para la automatización desde lo básico hasta algunos conceptos más avanzados.
+Después de terminar este laboratorio, está listo para comenzar a usar Ansible para sus requisitos de automatización.Los ejercicios son autoexplicativos y guían a los participantes a través de todo el laboratorio. Todos los conceptos se explican cuando se introducen.
 
-La segunda sección de este laboratorio cubre Tower y proporciona al usuario una visión general de lo que es Tower, cómo funciona y cuál es su beneficio.
-
-Después de terminar este laboratorio, está listo para comenzar a usar Ansible para sus requisitos de automatización.
-
-## Presentaciones
-
-Los ejercicios son autoexplicativos y guían a los participantes a través de todo el laboratorio. Todos los conceptos se explican cuando se introducen.
-
-Hay una presentación opcional disponible para apoyar los talleres y explicar la automatización, los conceptos básicos de Ansible y los temas de los ejercicios con más detalle:
-[Ansible RHEL Automation](../../decks/ansible_rhel.pdf)
-
-También echa un vistazo a nuestra cubierta de mejores prácticas de Ansible:
+También echa un vistazo a nuestro contenido de mejores prácticas de Ansible:
 [Ansible Best Practices](../../decks/ansible_best_practices.pdf)
 
 ## Planificación del tiempo
 
 El tiempo necesario para hacer los talleres depende en gran medida de múltiples factores: el número de participantes, lo familiarizados que están con Linux en general y la cantidad de discusiones que se realizan en el medio.
 
-Dicho esto, los ejercicios en sí deben tomar aproximadamente 4-5 horas. La primera sección es ligeramente más larga que la segunda. La presentación adjunta en sí añade otra hora.
+Dicho esto, los ejercicios en sí deben tomar aproximadamente 4-5 horas. La primera sección es ligeramente más larga que la segunda. La presentación sí añade otra hora.
 
 Si su experiencia es diferente al programar estos talleres, por favor háganoslo saber y presente un problema.
 
