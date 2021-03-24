@@ -311,4 +311,4 @@ Ejecute el comando `ansible node1 -m copy …​` desde arriba de nuevo. Verifiq
 <br>
 [Ejercicio anterior](../1.1-setup) - [Próximo Ejercicio](../1.3-playbook/README.es.md)
 
-[Haga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.md)
+[Haga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.es.md)
