@@ -1,7 +1,7 @@
 # Ansible Workshop - Ansible for Red Hat Enterprise Linux
 
 **Leer esto en otros idiomas**:
-<br>![uk](../../images/uk.png) [English](README.md),  ![japan](../../images/japan.png)[日本語](README.ja.md), ![brazil](../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../images/fr.png) [Français](README.fr.md), ![Español](../../images/col.png) [Español](README.es.md).
+<br>![uk](../../images/uk.png) [English](README.md)[Español](README.es.md).
 <br>
 
 Ansible es un motor de automatización de TI simple pero potente para la implementación de aplicaciones, la administración de la configuración y la orquestación que puede aprender rápidamente.
@@ -30,29 +30,13 @@ Dicho esto, los ejercicios en sí deben tomar aproximadamente 4-5 horas. La prim
 
 Si su experiencia es diferente al programar estos talleres, por favor háganoslo saber y presente un problema.
 
-## Sección 1 - Ejercicios de Ansible Engine
+## Día 1 - Introducción a Ansible
 
  - [Ejercicio 1.1 - Validación de los pre-requisitos](1.1-setup/README.es.md)
  - [Ejercicio 1.2 - Ejecución de comandos Ad-hoc](1.2-adhoc/README.es.md)
  - [Ejercicio 1.3 - Escribir su primer Playbook](1.3-playbook/README.es.md)
  - [Ejercicio 1.4 - Uso de Variables](1.4-variables/README.es.md)
 
-
-## Sección 2 - Ejercicios de Ansible Tower
-
- - [Ejercicio 2.1 - Introducción a Tower](2.1-intro/README.es.md)
- - [Ejercicio 2.2 - Inventarios, credenciales y comandos ad hoc](2.2-cred/README.es.md)
- - [Ejercicio 2.3 - Proyectos y plantillas de trabajo](2.3-projects/README.es.md)
- - [Ejercicio 2.4 - Encuestas](2.4-surveys/README.es.md)
- - [Ejercicio 2.5 - Control de acceso basado en roles](2.5-rbac/README.es.md)
- - [Ejercicio 2.6 - Flujos de trabajo](2.6-workflows/README.es.md)
- - [Ejercicio 2.7 - Conclusión](2.7-wrap/README.es.md)
-
-##  Ejercicios Suplementarios
-
-También hay una serie de ejercicios que van más allá de nuestro contenido normal del taller.  Por favor, echa un vistazo a nuestros ejercicios suplementarios si quieres más contenido para aprender.
-
- - [Ejercicios Suplementarios](supplemental)
 
 ## Información adicional
 
