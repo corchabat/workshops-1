@@ -1,4 +1,4 @@
-# Workshop Ejercicio - Validación de los pre-requisitos
+# Ejercicio 1 - Validación de los pre-requisitos
 
 ## Tabla de contenidos
 
