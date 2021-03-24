@@ -23,6 +23,7 @@ Si su experiencia es diferente al programar estos talleres, por favor háganoslo
  - [Ejercicio 1.3 - Escribir su primer Playbook](1.3-playbook/README.es.md)
  - [Ejercicio 1.4 - Uso de Variables](1.4-variables/README.es.md)
 
+## Día 2 - Práctica con Playbooks personalizados
 
 ## Información adicional
 
