@@ -26,7 +26,7 @@ Si su experiencia es diferente al programar estos talleres, por favor háganoslo
 
 ## Información adicional
 
- - [Ansible Getting Started](http://docs.ansible.com/ansible/latest/intro_getting_started.html)
+ - [Iniciando con Ansible](http://docs.ansible.com/ansible/latest/intro_getting_started.html)
 
 ---
 ![Red Hat Ansible Automation](../../images/rh-ansible-automation-platform.png)
