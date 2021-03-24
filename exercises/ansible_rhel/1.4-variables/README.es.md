@@ -244,6 +244,9 @@ node3                      : ok=2    changed=0    unreachable=0    failed=0
 ```
 
 ----
+
+# ¡Felicidades! Has llegado al fin del día 1
+
 **Navegación**
 <br>
 [Ejercicio anterior](../1.3-playbook/README.es.md) 
