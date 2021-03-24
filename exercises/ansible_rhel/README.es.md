@@ -1,8 +1,5 @@
 # Ansible Workshop - Ansible for Red Hat Enterprise Linux
 
-**Leer esto en otros idiomas**:
-<br>![uk](../../images/uk.png) [English](README.md)[Español](README.es.md).
-<br>
 
 Ansible es un motor de automatización de TI simple pero potente para la implementación de aplicaciones, la administración de la configuración y la orquestación que puede aprender rápidamente.
 
