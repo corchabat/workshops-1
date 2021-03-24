@@ -1,4 +1,4 @@
-# Workshop - Ejecución de comandos Ad-hoc
+# Ejercicio 2 - Ejecución de comandos Ad-hoc
 
 ## Tabla de contenidos
 
