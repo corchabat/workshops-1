@@ -1,10 +1,6 @@
 # Workshop - Condicionales, controladores y bucles
 
-**Read this in other languages**:
-<br>![uk](../../../images/uk.png) [English](README.md),  ![japan](../../../images/japan.png)[日本語](README.ja.md), ![brazil](../../../images/brazil.png) [Portugues do Brasil](README.pt-br.md), ![france](../../../images/fr.png) [Française](README.fr.md),![Español](../../../images/col.png) [Español](README.es.md).
-
-## Table of Contents
-
+## Contenido
 * [Objetivos](#Objetivos)
 * [Guía](#Guía)
 * [Paso 1 - Condicionales](#Paso-1---Condicionales)
@@ -247,6 +243,5 @@ uid=1002(dev_user) gid=1002(dev_user) Gruppen=1002(dev_user),50(ftp)
 ----
 **Navegación**
 <br>
-[Ejercicio anterior](../1.4-variables/README.es.md) - [Próximo Ejercicio](../1.6-templates/README.es.md)
-
-[CHaga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.md#section-1---ansible-engine-exercises)
+[Ejercicio anterior](../1.4-variables/README.es.md) 
+[CHaga clic aquí para volver al Taller Ansible for Red Hat Enterprise Linux](../README.es.md)
